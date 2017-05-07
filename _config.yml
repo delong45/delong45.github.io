@@ -14,3 +14,5 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 github_username: delong45
 highlighter: Rouge 
+
+theme: jekyll-theme-cayman
